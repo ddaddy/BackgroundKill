@@ -77,7 +77,7 @@
         self.usageLabel.text = [NSString stringWithFormat:@"Memory usage: %uMB", ([self report_memory] / 1024 / 1024)];
 #endif
         
-        [self performSelector:@selector(loadImage) withObject:nil afterDelay:0.0001];
+        [self performSelector:@selector(loadImage) withObject:nil afterDelay:0.00005];
     }
 }
 
