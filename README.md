@@ -11,7 +11,6 @@ The process must be done slowly otherwise this app is quickly terminated by the 
 
 On an iPad mini, this process takes about 35 seconds to complete. This could possibly be sped up a bit more.
 
-==============
      USAGE
 ==============
 
